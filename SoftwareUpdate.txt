@@ -1,1 +1,1 @@
-example Google Colab
+Add Neural Magic Docs integrations page (#7234)
