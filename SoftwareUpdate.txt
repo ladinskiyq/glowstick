@@ -1,1 +1,1 @@
-Open in Opposite Mode Option - Adds an option to open a long pressed URL in the respective other browsing mode
+Add speed_estimation and distance_calculation in ultralytics solutions (#7325)
