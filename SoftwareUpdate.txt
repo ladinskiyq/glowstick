@@ -1,1 +1,1 @@
-Add quantization support to TensorFlow.js converter (#7008)
+TensorRT FP16 export with dynamic=True (#7870)
