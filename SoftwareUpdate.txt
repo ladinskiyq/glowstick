@@ -1,1 +1,1 @@
-Faster batch same_shapes (#8851)
+RTDETRDetectionModel TorchScript, ONNX Predict and Val support (#8818)
