@@ -1,1 +1,1 @@
-Improve Docs Modes tables (#8266)
+Fix cmake requirements for ARM64 (#8589)
