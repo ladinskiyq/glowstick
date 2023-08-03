@@ -1,1 +1,1 @@
-Improve Docs Modes tables (#8266)
+Add Weights & Biases Docs integrations page (#7199)
