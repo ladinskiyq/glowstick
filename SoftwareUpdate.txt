@@ -1,1 +1,1 @@
-Fix PIL show() and save() (#8202)
+Fix PNNX ubuntu -> linux bug (#7050)
