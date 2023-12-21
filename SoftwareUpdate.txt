@@ -1,1 +1,1 @@
-Add integrations/gradio Docs page (#7935)
+Expand Model method type hinting (#8279)
