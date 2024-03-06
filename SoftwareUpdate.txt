@@ -1,1 +1,1 @@
-Explorer Cleanup (#7364)
+Update the heatmap module code + docs (#7045)
