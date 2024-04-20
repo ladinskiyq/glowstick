@@ -1,1 +1,1 @@
-add yolov10
+Fix Neural Magic links (#9144)
